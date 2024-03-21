@@ -2,17 +2,17 @@
 
 body {
     font-family: "Kadwa", serif;
-    background-color: #c4c4c4;
+    background-color: #fcb566;
     padding: 100px 0;
 }
-h3 {
+section {
     font-size: 20px;
     font-weight: bold;
     margin-bottom: 10px;
 }
 .container {
     width: 800px;
-    min-height: 800px;
+    min-height: 700px;
     border: 10px solid #ffffff;
     margin: 0 auto;
     background-color: #ffffff;
@@ -30,7 +30,7 @@ h3 {
     height: 100%;
     font-size: 30px;
     background: url("images/code.jpg") no-repeat center center/cover;
-    color: white;
+    color: #ffffff;
     margin-right: 10px;
 }
 .title-block::after{
@@ -55,7 +55,7 @@ h3 {
 }
 .nav ul {
     display: flex;
-    background-color: #d3d3d3;
+    background-color: #c8c8c8;
     margin: 10px 0;
 }
 .nav li a {
