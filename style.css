@@ -67,7 +67,7 @@ section {
     border-right: 1px solid #949494;
 }
 .nav li a:hover {
-    background-color: #c9c9c9;
+    background-color: #b4b4b4;
 }
 .content-wrapper {
     display: flex;
